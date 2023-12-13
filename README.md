@@ -8,7 +8,7 @@
 
 <p align="center">
   <samp>
-  | <a href = "mailto: aliht.workspace@gmail.com">Email</a> | <a href='https://instagram.com/al_iht'>Instagram</a> |
+  | <a href = "mailto: aliht.workspace@gmail.com">Email</a> | <a href='https://t.me/al_iht'>Telegram</a> |
   </samp>
 </p> 
 
