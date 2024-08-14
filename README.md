@@ -5,10 +5,11 @@
     I'm also currently learning Django while working on my Telegram bots and other projects.<br>
     <br></samp>
 </p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alihtt/Alihtt/output/snake.svg" alt="Snake animation" />
+</div>
 <p align="center">
   <samp>
   | <a href = "mailto: aliht.workspace@gmail.com">Email</a> | <a href='https://t.me/al_iht'>Telegram</a> |
   </samp>
 </p> 
-
